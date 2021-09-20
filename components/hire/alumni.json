@@ -1024,5 +1024,37 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "20-02-2021"
+  },
+  {
+    "id": 45,
+    "roles": ["alumni"],
+    "name": "Stephen Adu",
+    "email": "stephenkwesiadu@gmail.com",
+    "photo": "/static/alumni/photos/stephen.jpg",
+    "pdfCV": "/static/alumni/cv/Stephen.pdf",
+    "github": "https://github.com/STEP0HEN",
+    "linkedin": "https://www.linkedin.com/in/stephen-adu-94584a96",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JS",
+      "Typescript",
+      "React",
+      "React Native",
+      "Storybook",
+      "Material UI",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "Mongo DB",
+      "Postman",
+      "Swagger",
+      "Git/Github",
+      "Detox - React Native e2e testing Library"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "21-10-2020",
+    "lastUpdateDate": "20-09-2021"
   }
 ]
