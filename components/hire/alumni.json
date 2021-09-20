@@ -1038,7 +1038,7 @@
       "HTML",
       "CSS",
       "JS",
-      "Typescript",
+      "TypeScript",
       "React",
       "React Native",
       "Storybook",
@@ -1050,7 +1050,7 @@
       "Mongo DB",
       "Postman",
       "Swagger",
-      "Git/Github",
+      "Git",
       "Detox - React Native e2e testing Library"
     ],
     "status": "looking for jobs",
